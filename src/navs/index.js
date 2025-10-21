@@ -440,7 +440,7 @@ export const handbookSidebar = [
             },
             {
                 name: '4. Who we are building for',
-                url: '/handbook/who-we-are-building-for',
+                url: '/handbook/who-we-build-for',
             },
             {
                 name: '5. How we make users happy',
@@ -1284,10 +1284,10 @@ export const handbookSidebar = [
                         name: 'How we work',
                         url: '/handbook/growth/sales/how-we-work',
                     },
-                                        {
+                    {
                         name: 'Hogpatch',
                         url: '/handbook/growth/sales/hogpatch',
-                    }
+                    },
                 ],
             },
             {
